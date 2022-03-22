@@ -1,12 +1,12 @@
 ### Hi there 👋
  ![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fdrawing-cartoon-image-emoticon-pack-picture-hello_5506260.html&psig=AOvVaw1A1NUHjQf5IQPpzKPh15pb&ust=1648009605368000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjhrLDw2PYCFQAAAAAdAAAAABAD)
  
- :wave: Hello! My name is Puteri Nur Alisa
- :wink: I am 22 years old. I am currently doing my undergraduate studies of Bachelor in Computer Science majoring in Software Engineering at Universiti Teknologi Malaysia (UTM), Skudai, Johor Bahru
- :house: I live in Klang, Selangor
- :computer: I’m currently working on building a software for application development project
- :speech_balloon: You can ask me about anything! Reach me through my email address: puterinuralisa@graduate.utm.my
- :smile_cat: Fun fact, I LOVEEEE love cats! I have 10 of them! 😸
+-:wave: Hello! My name is Puteri Nur Alisa
+-:wink: I am 22 years old. I am currently doing my undergraduate studies of Bachelor in Computer Science majoring in Software Engineering at Universiti Teknologi Malaysia (UTM), Skudai, Johor Bahru
+-:house: I live in Klang, Selangor
+-:computer: I’m currently working on building a software for application development project
+-:speech_balloon: You can ask me about anything! Reach me through my email address: puterinuralisa@graduate.utm.my
+-:smile_cat: Fun fact, I LOVEEEE love cats! I have 10 of them! 😸
  
 <!--
 **puterinuralisa/puterinuralisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
