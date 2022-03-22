@@ -1,10 +1,12 @@
 ### Hi there 👋
-
+ ![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fdrawing-cartoon-image-emoticon-pack-picture-hello_5506260.html&psig=AOvVaw1A1NUHjQf5IQPpzKPh15pb&ust=1648009605368000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjhrLDw2PYCFQAAAAAdAAAAABAD)
+ 
+ :wave: Hello! My name is Puteri Nur Alisa
 <!--
 **puterinuralisa/puterinuralisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+My
 - 🔭 I’m currently working on building a software for application development project ...
 - 🌱 I’m currently learning application development ...
 - 👯 I’m looking to collaborate on github with my groupmates  ...
