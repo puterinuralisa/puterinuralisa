@@ -1,5 +1,5 @@
 ### Hi there 👋
- ![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fdrawing-cartoon-image-emoticon-pack-picture-hello_5506260.html&psig=AOvVaw1A1NUHjQf5IQPpzKPh15pb&ust=1648009605368000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjhrLDw2PYCFQAAAAAdAAAAABAD)
+ ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
  
 - :wave: Hello! My name is Puteri Nur Alisa
 - :wink: I am 22 years old. I am currently doing my undergraduate studies of Bachelor in Computer Science majoring in Software Engineering at Universiti Teknologi Malaysia (UTM), Skudai, Johor Bahru
